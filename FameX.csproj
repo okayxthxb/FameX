@@ -1,0 +1,55 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>FameX</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <UseWindowsForms>True</UseWindowsForms>
+    <TargetFramework>net472</TargetFramework>
+    <Prefer32Bit>True</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>Preview</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="costura.costura.dll.compressed" />
+    <None Remove="costura.costura.pdb.compressed" />
+    <None Remove="costura.fluorinefx.dll.compressed" />
+    <None Remove="costura.guna.ui.dll.compressed" />
+    <None Remove="costura.log4net.dll.compressed" />
+    <None Remove="costura.materialskin.dll.compressed" />
+    <None Remove="costura.newtonsoft.json.dll.compressed" />
+    <None Remove="costura.system.diagnostics.dia.compressed" />
+    <None Remove="costura.websocket-sharp.dll.compressed" />
+    <None Remove="costura.metadata" />
+    <EmbeddedResource Include="costura.costura.dll.compressed" />
+    <EmbeddedResource Include="costura.costura.pdb.compressed" />
+    <EmbeddedResource Include="costura.fluorinefx.dll.compressed" />
+    <EmbeddedResource Include="costura.guna.ui.dll.compressed" />
+    <EmbeddedResource Include="costura.log4net.dll.compressed" />
+    <EmbeddedResource Include="costura.materialskin.dll.compressed" />
+    <EmbeddedResource Include="costura.newtonsoft.json.dll.compressed" />
+    <EmbeddedResource Include="costura.system.diagnostics.dia.compressed" />
+    <EmbeddedResource Include="costura.websocket-sharp.dll.compressed" />
+    <EmbeddedResource Include="costura.metadata" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="log4net">
+      <HintPath>..\..\Downloads\wetransfer_9oeiture_2021-11-13_1947\wetransfer_famex_d-1-zip_2021-11-13_1611\FameX_D (1)\bin\Debug\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json" />
+    <Reference Include="FluorineFx">
+      <HintPath>..\..\Pictures\FameX\FameX Deobfuscator\FameX Deobfuscator\bin\Debug\FluorineFx.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="websocket-sharp" />
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\Pictures\FameX\FameX Deobfuscator\FameX Deobfuscator\bin\Debug\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="Microsoft.CSharp" />
+  </ItemGroup>
+</Project>

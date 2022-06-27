@@ -1,0 +1,9 @@
+costura.costura.dll.compressed|5.3.0.0|Costura, Version=5.3.0.0, Culture=neutral, PublicKeyToken=null|Costura.dll|790691B8E17BE618ABE2C596B93EB925FC4C1142|4608
+costura.costura.pdb.compressed|||Costura.pdb|52414EC411DEA325110F0AD21378C8D101897989|2544
+costura.fluorinefx.dll.compressed|1.0.0.17|FluorineFx, Version=1.0.0.17, Culture=neutral, PublicKeyToken=b01328ff5dbb1ecd|FluorineFx.dll|B2A5F8FA93317197F3C3A42AFA0F254926E373AF|1255936
+costura.guna.ui.dll.compressed|1.9.0.1|Guna.UI, Version=1.9.0.1, Culture=neutral, PublicKeyToken=ad275b4be6718d4b|Guna.UI.dll|AD3E1CE93782537FFD3CD9E0BB9D30AE22D40DDB|1136808
+costura.log4net.dll.compressed|1.2.10.0|log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821|log4net.dll|82CDE65A7514C0E465EE0D505BE56C56639FF0B1|270336
+costura.materialskin.dll.compressed|2.1.2.0|MaterialSkin, Version=2.1.2.0, Culture=neutral, PublicKeyToken=null|MaterialSkin.dll|298A566DC2033FE876FE30BC6A3108933D3B0D88|6620160
+costura.newtonsoft.json.dll.compressed|13.0.0.0|Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed|Newtonsoft.Json.dll|7D0AD03FBDA1C24F883116B940717E596073AE96|701992
+costura.system.diagnostics.diagnosticsource.dll.compressed|4.0.1.0|System.Diagnostics.DiagnosticSource, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Diagnostics.DiagnosticSource.dll|85DC92EDD4B0049ED9049E075C4DEF8A3D64E43B|35760
+costura.websocket-sharp.dll.compressed|1.0.1.0|websocket-sharp, Version=1.0.1.0, Culture=neutral, PublicKeyToken=5660b08a1845a91e|websocket-sharp.dll|B75B79C65330A77FE7AEA5EF6C319D7F3D1865D4|226816

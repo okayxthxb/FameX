@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="FameX\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FameX\Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThemeContainer154.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ThemeControl154.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="VitalityButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="VitalityCheckbox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="VitalityLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="VitalityProgressbar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="VitalityRadiobutton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="VitalityTabControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="VitalityTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="VitalityTheme.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
